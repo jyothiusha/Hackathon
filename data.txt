@@ -1,4 +1,17 @@
-poid	max_score	engagement_score	last_login_data
-1	10	5	10/01/2024
-2	10	10	25/03/2024
-3	10	3	30/04/2024
+client_id    client_name last_login_data account_balance beneficary_added    aip_enabled   recent_appointment_setup  external_account    digital_interaction_score
+1001    John    04/01/2024  1000$   TRUE TRUE    TRUE   TRUE    75%
+1002    Kelly    03/01/2022  5000$   FALSE FALSE    FALSE   TRUE    5%
+1003    Peter    05/01/2024  0$   TRUE TRUE    TRUE   FALSE    90%
+1004    Mike    03/01/2022  5000$   TRUE TRUE    TRUE   TRUE    5%
+1005    Greg    04/01/2023  10000$   TRUE TRUE    TRUE   TRUE    75%
+1006    Gary    03/01/2024  50000$   FALSE FALSE    FALSE   TRUE    25%
+1007    Jim    05/01/2020  564$   TRUE TRUE    TRUE   FALSE    90%
+1008    Bob    03/01/2008  8000$   TRUE TRUE    TRUE   TRUE    55%
+1009    John    04/01/2024  1000$   TRUE TRUE    TRUE   TRUE    75%
+1012    Kara    03/01/2022  5000$   TRUE FALSE    FALSE   TRUE    5%
+1013    Peter    05/01/2024  6000$   FALSE FALSE    TRUE   FALSE    90%
+1014    Sara    03/01/2022  540$   TRUE FALSE    TRUE   TRUE    5%
+1045    Sam    04/01/2023  10000$   TRUE TRUE    TRUE   TRUE    75%
+1056    Max    03/01/2024  50000$   FALSE TRUE    FALSE   TRUE    25%
+1097    Jim    05/01/2020  564$   TRUE TRUE    TRUE   FALSE    90%
+1058    Bob    03/01/2008  8000$   TRUE TRUE    TRUE   TRUE    55%

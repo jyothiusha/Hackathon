@@ -7,11 +7,15 @@
 </head>
 <body>
     <form name="search" method="post">
-        <label>Ask a question:</label> <br><br>
-        <textarea rows="5" cols="60" name="searchString"></textarea>
-        <input type="submit" value="search">
+        <h1 style="background-color:aqua;text-align: center;">AI Model that forecasts the likehood of client attrition based on factors.</h1>
+        <h2 style="text-align: center;">Ask me a question:</h2> 
+        <textarea style="margin: auto; display: block;" rows="10" cols="100" name="searchString"></textarea>
+        <br>
+        <input style="margin: auto; display: block;" type="submit" value="search">
     </form>
     <br>
-    <h1>{{responseString}}</h1>
+    <h2 style="color: orangered;">{{question}}</h2>
+    <br>
+    <h3 style="color: blue;">{{responseString}}</h3>
 </body>
 </html>
